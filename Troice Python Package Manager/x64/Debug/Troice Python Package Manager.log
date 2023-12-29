@@ -1,0 +1,3 @@
+﻿  mainfile.cpp
+D:\VSProject\Troice Python Package Manager\Troice Python Package Manager\troicefile.h(62,28): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  Troice Python Package Manager.vcxproj -> D:\VSProject\Troice Python Package Manager\x64\Debug\Troice Python Package Manager.exe
